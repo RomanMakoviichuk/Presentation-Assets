@@ -474,14 +474,6 @@ h6 {
 	position: relative
 }
 
-.portfolio__item_link:hover img {
-	position: absolute;
-	left: 3px;
-	-webkit-transition: 2s ease;
-	-o-transition: 2s ease;
-	transition: 2s ease
-}
-
 .no-webp .quote {
 	background-image: url(../img/png/quote.png)
 }
